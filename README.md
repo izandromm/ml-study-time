@@ -1,8 +1,20 @@
 # ml-study-time
 
-# AI algorithms and concepts 
 
-# AI product development process
+## AI algorithms and concepts 
 
-# Skills and roles 
 
+
+## ML System Design
+
+
+
+
+
+## Skills and roles 
+
+
+
+
+
+## References
