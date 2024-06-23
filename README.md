@@ -3,7 +3,7 @@
 
 ## AI algorithms and concepts 
 
-
+Main types of ML systems: classification and regression. Regression outputs a continous value, classification fits the output in one of the infered classes. 
 
 ## ML System Design
 
@@ -15,6 +15,16 @@ For every step in the project development, it`s important to plan how much effor
 
 (DMLS) It's important to tie the performance of the ML model to actual business metrics, like increases in purchase rate of a recommendation system or detected frauds in a fraud detection system. A model can be accurate but still fail as a product if a it hasn't a proper design.
 
+[DMLS] Characteristics desireble for a ML system: Reliability, scalability, maintainability and adaptability.
+
+[DLMS] Overview of ML system development:
+
+1- Project scoping - list goals, objectives, contraints. Estimate and allocate resources. 
+2- Data engineering - access the raw data to sample and generate labels.
+3- ML model development - extract features and develop models.
+4- deployment - publish it to be available to the user.
+5- Monitoring and retraining - retrain if needed, as the performance may degradate over time.
+6- Business analysis - is the model solving the main questions of the business ? 
 
 
 
